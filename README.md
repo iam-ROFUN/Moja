@@ -1,5 +1,6 @@
-فایل فیلم آموزش ، برنامه  و فایل دی ان اس  بالا 
-و کانفیگ پایین 
+
+فایل فیلم آموزش ، برنامه  و فایل دی ان اس  بالا  بزن رو code سبز رنگ بعد download zip همه چیز به صورت زیپ دانلود میشه بعد فقط به کانفیگ پایین نیاز داری 
+
 
 stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiMiIsInNlcnZlciI6eyJkb21haW4iOiJ2LndoaXRlZG5zLnNwYWNlIiwiZW5jcnlwdGlvbl9rZXkiOiJiYWQ5OTM2NDA5Mzg2MTYzNDAzMGU5NmYxMWZlMzEzMiIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19
 
